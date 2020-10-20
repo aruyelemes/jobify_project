@@ -1,7 +1,7 @@
 # jobify
 
 This system provides: 
--  Web platform and mobile app(for Android) for people, who are searching for actual job vacancies, internship, job titles in demand.
+-  Web platform for people, who are searching for actual job vacancies, internship, job titles in demand.
 - Information regarding IT breakthroughs and to motivate to challenge themselves. 
 - Tool for improving their CVs and supporting it.
 
